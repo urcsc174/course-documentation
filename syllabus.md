@@ -2,20 +2,25 @@
 
 An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
-- CRN: **nnnnn**
+- CRN: **36222**
 - Course: **CSC 174**
 - Credits: **4.0**
 - Lecture and Assignment Schedule: **Mondays, Wednesdays, and Fridays** between **June 29** and **August 7, 2020**
-- Format: **Online** - students must watch recorded lecture videos within 24 hours of them being published and complete assignments within 24 hours of their due date
+- Format: **Online, mostly asynchronous**
+  - **LECTURES - async:** Students must watch recorded lecture videos posted online on Mondays, Wednesdays, and Fridays, within 24 hours of them being published (required for grade)
+  - **ASSIGNMENTS - async:** Students must complete assignments posted online on Mondays, Wednesdays, and Fridays, within 24 hours of their due date (required for grade)
+  - **DISCUSSIONS - synchronous:** Online, instructor-lead, real-time discussions will be held on a regular basis (usually Fridays) to reinforce learning; recorded discussions will be made available (attendance *or* viewing of recordings is required for grade)
+  - **COLLABORATION - async:** Students will use "GitHub" - an online code sharing platform to work with other students on team projects (explained on Day 1)
+  - **HELP - async:** Students will use the #help channel in "Slack" - an online communication and collaboration tool (details below) to ask questions and get technical assistance as needed
 
 ## Course Information
 
-- All **course documentation** and **course materials** for CSC 174 will be published here: **[docs.csc174.org](http://docs.csc174.org/)**, not in Blackboard.
-- All **announcements** for CSC 174 will be distributed via "Slack" - an online communication and collaboration tool, not in Blackboard.
-
-- Students are required to **create a Slack account here**: [ join.slack.com/t/csc174/signup](https://join.slack.com/t/csc174/signup) and then monitor the CSC 174 Slack Workspace here: **[csc174.slack.com](https://csc174.slack.com/)** throughout the semester.
+- All **announcements** for CSC 174 will be distributed via Slack (details below), *not in Blackboard*
+- All **course documentation** and **course materials** for CSC 174 will be published here: **[docs.csc174.org](http://docs.csc174.org/)** (the website you're looking at now), *not in Blackboard*
+- Students are required to **create a Slack account here**: **[ join.slack.com/t/csc174/signup](https://join.slack.com/t/csc174/signup)** and then monitor the CSC 174 Slack Workspace here: **[csc174.slack.com](https://csc174.slack.com/)** throughout the semester
   - When registering for an account in Slack, students must use their **rochester.edu** email
   - Suggestion: after you setup your Slack account, instead of using Slack via the website, **install the device software**: [slack.com/downloads](https://slack.com/downloads)
+- Students are required to use **Blackboard** to submit assignments and check their in-progress grades throughout the semester
 
 ## Instructor Information 
 
@@ -50,25 +55,25 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Practice Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | **30%**<br>Each lab assignment will be worth about 1.6% of the overall grade |
+| **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry. | **30%**<br>Each lab assignment will be worth about 1.5% of the overall grade |
 | **Projects**<br>There are [n] projects during the semester. Each project depends on the success of the previous. | **30%**<br/>Project 1: 10%<br>Project 2: 10%<br>Project 3: 10%<br>[...] |
 | **Participation**<br>There are several required activities that students must perform for the benefit of the class.  The total of all activities will count equally toward the total of 10% | **10%**<br>Each participation activity will be worth about 0.5% of the overall grade |
 
 ## Labs and Project Assignments
 
-**Assignments** are made available via the Course Documentation website after most lectures and can be completed independently on one's own Internet-connected computer (Mac or PC).  
+**Labs** and **projects** are made available via the Course Documentation website (another area of *this* website you're looking at now) after most lectures and can be completed independently on one's own Internet-connected computer (Mac or PC).
 
-**How to get help...**
+NOTE: students are required to complete each lab or project within 24 hours of its due date. The professor will make announcements in Slack to let everyone know when each assignment has been published, and when the due date is.
 
-1. FTP (upload) what you've done so far to your account on the class web server using Cyberduck (Mac) or WinSCP (PC)
+### Help
 
-2. Check what you uploaded to the server in your web browser and copy the URL
+While working on any lab or project assignment and you need technical help:
 
-3. Go to the #help channel in Slack and create a post. Ask a SPECIFIC question and paste the URL
+1. STOP working - don't hack away on any one thing more than say, 15-20 minutes - and then **upload what you're working on** to the class web server
+2. **Go to the #help channel** in Slack and create a new message to ask a specific question and then paste the URL of your work from the class web server
+3. **Carry on** working on something else if possible while you wait for a reply
 
-   ...Then, the professor will *start a thread* on your post to answer your question
-
-**Note:** throughout the semester, the assignments build on each other, meaning: students cannot complete one assignment without successfully finishing the previous.  So, success in this course requires students to turn-in assignments on-time and in the right order.
+...The professor (or maybe other students) will reply to your message and provide help as soon as possible, sometimes immediately, usually within 24 hours.
 
 ### Due Dates
 
@@ -94,9 +99,9 @@ Re-grading assignments is at the professor's discretion.  There is no obligation
 
 Because of the dynamic nature of the web development industry, this course does not use a textbook. All information required to pass the course comes from the lectures so attendance is mandatory.  
 
-**Important:** Because attendance is not graded the student is on their honor to go to all the lectures.  If a student is unable to attend a lecture, it is the student's responsibility to get the information missed from another student. (The Professor will not re-teach a lecture.) 
+Lectures are recorded and hosted in Panopto which provides the professor a record of each students' access of each lecture, and the amount (%) of each lecture that they viewed.  The professor will use the Panopto server records to assign a "participation" grade in Blackboard
 
-Students' inability to answer exam questions, complete lab assignments, or complete projects because of a missed lecture is not a valid excuse.
+NOTE: students are required to watch 100% of each lecture video within 24 hours of its publication on Panopto.  The professor will make announcements in Slack to let everyone know when each lecture has been published and when it needs to be viewed by.
 
 ### Personal Computer and Software
 
@@ -106,12 +111,15 @@ In addition to the hosted Web service, provided by the University, students will
 - FTP software
 - An updated, popular web browser
 - An Internet connection
+- A localhost "web stack" consisting of Apache, PHP, and MySQL software
 
-If a student does not have a personal computer with these capabilities, the University provides open labs at various locations on campus that they can use.  Those computers have all the required capabilities and software installed and they are supported by University IT.  
+For reference, in the lecture videos the professor will be using
 
-For reference: during lectures the professor will be using a **Macbook** and **Windows PC** (alternatively) and a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3)). For FTP demonstrations, the professor will use **Cyberduck** (for Mac, [cyberduck.io](http://cyberduck.io)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php)).  Demonstrations during the lecture and in labs will be done using **Google Chrome**.
-
-Mid-way through the semester, the professor will introduce web server software that students can optionally install on their own computer.  The software can be installed using the free version of: MAMP (for both PC and Mac, www.mamp.info/en)
+- a **Macbook** and **Windows PC** (alternatively) 
+- a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3))
+- FTP software: **Cyberduck** (for Mac, [cyberduck.io](https://cyberduck.io/)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php))
+- a localhost, provided by a software package called: **MAMP** (for Mac) or **MAMP for Windows** (for PC) ([mamp.info/en](https://www.mamp.info/en/)) 
+- Demonstrations during the lectures will be done using **Google Chrome**.
 
 ## Academic Honesty
 
