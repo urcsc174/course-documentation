@@ -8,7 +8,7 @@
 - Lecture and Assignment Schedule: **Mondays, Wednesdays, and Fridays** between **June 29** and **August 7, 2020**
 - Format: **Online, mostly asynchronous**
   - **LECTURES - async:** Students must watch recorded lecture videos posted online on Mondays, Wednesdays, and Fridays, within 24 hours of them being published (required for grade)
-  - **ASSIGNMENTS - async:** Students must complete assignments posted online on Mondays, Wednesdays, and Fridays, within 24 hours of their due date (required for grade)
+  - **ASSIGNMENTS - async:** Students must complete assignments posted online on most Mondays, Wednesdays, and Fridays, within 24 hours of their due date (required for grade)
   - **DISCUSSIONS - synchronous:** Online, instructor-lead, real-time discussions will be held on a regular basis (usually Fridays) to reinforce learning; recorded discussions will be made available (attendance *or* viewing of recordings is required for grade)
   - **COLLABORATION - async:** Students will use "GitHub" - an online code sharing platform to work with other students on team projects (explained on Day 1)
   - **HELP - async:** Students will use the #help channel in "Slack" - an online communication and collaboration tool (details below) to ask questions and get technical assistance as needed
@@ -56,18 +56,18 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry. | **30%**<br>Each lab assignment will be worth about 1.5% of the overall grade |
-| **Projects**<br>There are [n] projects during the semester. Each project depends on the success of the previous. | **30%**<br/>Project 1: 10%<br>Project 2: 10%<br>Project 3: 10%<br>[...] |
-| **Participation**<br>There are several required activities that students must perform for the benefit of the class.  The total of all activities will count equally toward the total of 10% | **10%**<br>Each participation activity will be worth about 0.5% of the overall grade |
+| **Projects**<br>There are five projects during the semester, each of which will be completed by a team of students.  Everyone on the team initially gets the same grade, followed by a balancing process that rewards students who completed more work that required, while penalizing students who were unable to complete their portion of the work. | **50%**<br/>Project 1: 10%<br>Project 2: 10%<br>Project 3: 10%<br>Project 4: 10%<br>Project 5: 10% |
+| **Participation**<br>There are several required activities that students must perform for the benefit of the class which include viewing recorded videos, and to the degree possible, participating in real-time discussions, online.  The total of all activities will count equally toward the total of 20% | **20%**<br>Each participation activity will be worth about 1.0% of the overall grade |
 
 ## Labs and Project Assignments
 
-**Labs** and **projects** are made available via the Course Documentation website (another area of *this* website you're looking at now) after most lectures and can be completed independently on one's own Internet-connected computer (Mac or PC).
+After most lecture videos are published, **labs** and **projects** are made available via the Course Documentation website (the website you're looking at now) and can be completed independently on one's own Internet-connected computer (Mac or PC).
 
 NOTE: students are required to complete each lab or project within 24 hours of its due date. The professor will make announcements in Slack to let everyone know when each assignment has been published, and when the due date is.
 
 ### Help
 
-While working on any lab or project assignment and you need technical help:
+While working on any lab or project assignment and the student needs technical help:
 
 1. STOP working - don't hack away on any one thing more than say, 15-20 minutes - and then **upload what you're working on** to the class web server
 2. **Go to the #help channel** in Slack and create a new message to ask a specific question and then paste the URL of your work from the class web server
@@ -109,13 +109,14 @@ In addition to the hosted Web service, provided by the University, students will
 
 - A code editor
 - FTP software
+- "GitHub Desktop" software
 - An updated, popular web browser
 - An Internet connection
 - A localhost "web stack" consisting of Apache, PHP, and MySQL software
 
 For reference, in the lecture videos the professor will be using
 
-- a **Macbook** and **Windows PC** (alternatively) 
+- a **Macbook** (usually) and a **Windows PC** (alternatively) 
 - a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3))
 - FTP software: **Cyberduck** (for Mac, [cyberduck.io](https://cyberduck.io/)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php))
 - a localhost, provided by a software package called: **MAMP** (for Mac) or **MAMP for Windows** (for PC) ([mamp.info/en](https://www.mamp.info/en/)) 
