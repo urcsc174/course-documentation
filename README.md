@@ -17,4 +17,5 @@ Advanced Front-end Web Design and Development
 
 - Do [Lab 1:  Initial Personal Website](lab01-initial-personal-website/instructions.md) (due: Wednesday, July 1)
   - Note: use the #help channel in Slack if you get stuck
+  - Here is a supplemental video to remind you how to fire-up and use a localhost on your Mac or PC: [1a. Installing a localhost (Panopto 18:47)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=128d238d-8245-4aad-8ae4-abe901427f2a)
 
