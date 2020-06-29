@@ -52,4 +52,5 @@ FTP Password: [see the #announcements channel in Slack]
 
 ## Submit the Assignment
 
-To get credit for your work, submit a link to your website in Blackboard, in the assignment: **Assignment 1: Initial Personal Website**
+To get credit for your work, submit a link to your website in Blackboard, in the assignment: **Lab 1: Initial Personal Website**
+
