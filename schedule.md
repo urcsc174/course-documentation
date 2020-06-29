@@ -14,7 +14,7 @@ This schedule is subject to modification throughout the semester. Always check w
 ### CSC 170 Refresher
 
 - Do [Lab 1:  Initial Personal Website](lab01-initial-personal-website/instructions.md) (due: Wednesday, July 1)
-  - Supplemental video: [1a. Installing a localhost (Panopto 18:47)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=128d238d-8245-4aad-8ae4-abe901427f2a)
+  - [Supplemental Video 1a: Installing a localhost (Panopto 18:47)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=128d238d-8245-4aad-8ae4-abe901427f2a) and associated slides: [Web Solution Stacks (PDF)](01b-refresher/web-solution-stacks.pdf)
 
 <br>
 
