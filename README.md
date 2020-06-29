@@ -15,5 +15,6 @@ Advanced Front-end Web Design and Development
 
 ### CSC 170 Refresher
 
-- Lab 1:  Initial Personal Website (coming soon)
+- Do [Lab 1:  Initial Personal Website](lab01-initial-personal-website/instructions.md) (due: Wednesday, July 1)
+  - Note: use the #help channel in Slack if you get stuck
 

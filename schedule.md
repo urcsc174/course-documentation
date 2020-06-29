@@ -13,7 +13,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### CSC 170 Refresher
 
-- Lab 1:  Initial Personal Website (coming soon)
+- Do [Lab 1:  Initial Personal Website](lab01-initial-personal-website/instructions.md) (due: Wednesday, July 1)
 
 <br>
 
