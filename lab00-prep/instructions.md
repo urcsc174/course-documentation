@@ -59,6 +59,6 @@ Later this week we'll have a live discussion in Zoom to talk about specific area
 
 - Go to the [Frontend Developer Roadmap](https://roadmap.sh/frontend) and browse around.  Google terms and technologies that your unfamiliar with
   - You're not limited to what's shown on that particular *roadmap*.  Here's another one ([Web Development in 2020 - A complete roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)) that also comes with [its own YouTube video](https://www.youtube.com/watch?v=SBB1YtwODT0&t=29s)
-- Go to the **#chatter** channel in Slack and mention some things you'd like to talk about on Friday
+- Go to the **#chatter** channel in Slack and mention some things you'd like to talk about on <s>Friday</s> Wednesday, July 1
 - Due: Wednesday, July 1
 - Not graded
