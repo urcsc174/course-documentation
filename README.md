@@ -12,8 +12,8 @@ Advanced Front-end Web Design and Development
 
 ### Version Control
 
-- Watch Lecture Video 2: Version Control Software (due: Wednesday, July 1 ...today)
-  - Associated Slides: Version Control Software (PDF)
+- Watch [Lecture Video 2: Version Control Software (Panopto 13:11)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb5259f8-bef5-4b28-bd4b-abeb0020e73d) (due: Wednesday, July 1 ...today)
+  - Associated Slides: [Version Control Software (PDF)](02a-version-control/version-control-software.pdf)
 - Do Lab 2: GitHub Collaboration (due: Wednesday, July 1 ...today)
 
 ### Front-end Developer Roles
