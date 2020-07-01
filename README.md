@@ -4,18 +4,20 @@ Advanced Front-end Web Design and Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &#8678; here is the full list of slides, demo files, assignments, and related links
 
-## Monday, June 29, 2020
+## Wednesday, July 1, 2020
 
-### Re-Introduction to the Industry
+### Live Discussion #1 - Developer Roadmaps
 
-- Watch [Lecture Video 1: Intro to the Course (Panopto 37:17)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11430437-1c41-4a25-81c2-abe8015598b0) (due: Monday, June 29)
-  - Associated slides: [Introduction (PDF)](01a-introduction/introduction.pdf)
+- Recorded session, coming soon
 
-- Do [Lab 0:  Prep for the Semester](lab00-prep/instructions.md)
+### Version Control
 
-### CSC 170 Refresher
+- Watch Lecture Video 2: Version Control Software (due: Wednesday, July 1 ...today)
+  - Associated Slides: Version Control Software (PDF)
+- Do Lab 2: GitHub Collaboration (due: Wednesday, July 1 ...today)
 
-- Do [Lab 1:  Initial Personal Website](lab01-initial-personal-website/instructions.md) (due: Wednesday, July 1)
-  - Note: use the #help channel in Slack if you get stuck
-  - Here is another video to remind you how to fire-up and use a localhost on your Mac or PC: [Supplemental Video 1a: Installing a localhost (Panopto 18:47)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=128d238d-8245-4aad-8ae4-abe901427f2a) and associated slides: [Web Solution Stacks (PDF)](01b-refresher/web-solution-stacks.pdf)
+### Front-end Developer Roles
 
+- Watch Lecture Video 3: Web Teams (coming soon)
+  - Associated Slides: Team Roles and Projects (PDF)
+- Do Project 1: Team "Flash" Website (due: Monday, July 6)

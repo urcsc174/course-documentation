@@ -22,13 +22,21 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Wednesday, July 1, 2020 
 
-### Version Control Software
+### Live Discussion #1 - Developer Roadmaps
 
-- Lab 2:  GitHub Collaboration
+- Recorded session, coming soon
+
+### Version Control
+
+- Watch Lecture Video 2: Version Control Software (due: Wednesday, July 1 ...today)
+  - Associated Slides: Version Control Software (PDF)
+- Do Lab 2: GitHub Collaboration (due: Wednesday, July 1 ...today)
 
 ### Front-end Developer Roles
 
-- Lab 3:  Team "Flash" Website
+- Watch Lecture Video 3: Web Teams (coming soon)
+  - Associated Slides: Team Roles and Projects (PDF)
+- Do Project 1: Team "Flash" Website (due: Monday, July 6)
 
 <br>
 <hr>
