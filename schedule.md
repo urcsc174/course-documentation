@@ -24,7 +24,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Live Discussion #1 - Developer Roadmaps
 
-- Recorded session, coming soon
+- [Recorded Session (Zoom --> Panopto 1:14:19)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0e0fe2b-da3b-4901-a835-abeb0108d2d4)
 
 ### Version Control
 
