@@ -20,5 +20,5 @@ Advanced Front-end Web Design and Development
 
 - Watch [Lecture Video 3: Team Roles and Projects (Panopto 14:26)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c2d9adf-d84b-4b50-8fdb-abeb0144bc0d) (due: Thursday, July 2)
   - Associated Slides: [Team Roles and Projects (PDF)](02b-team-roles/team-roles.pdf)
-- Do Project 1: Team "Flash" Website (due: Monday, July 6) ...coming soon
+- Do [Project 1: Team "Flash" Website](project1-flash-website/instructions.md) (due: Monday, July 6)
 
