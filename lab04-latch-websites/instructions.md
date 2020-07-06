@@ -1,4 +1,4 @@
-# Lab 4: LATCH Website
+# Lab 4: LATCH Website Examples
 
 *Due: Friday, July 10, 2020* 
 
