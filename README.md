@@ -14,8 +14,9 @@ Advanced Front-end Web Design and Development
 
 ## Information Architecture
 
-- Watch Lecture Video 5: Information Architecture (coming soon)
-- Do Lab 4: LATCH Websites (due: Friday, July 10 ...coming soon)
+- Watch [Lecture Video 5: Information Architecture (Panopto n:nn)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18359391-3529-4013-85e2-abf001489672) (due: Wednesday, July 8)
+  - Associated slides: [Information Architecture (PDF)](03b-information-architecture/information-architecture.pdf)
+- Do Lab 4: LATCH Websites (due: Friday, July 10)
 
 
 
