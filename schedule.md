@@ -52,13 +52,17 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Markdown
 
-- Lab 4:  Markdown
+- Watch [Lecture Video 4: Markdown (Panopto 17:43)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ecdfc469-a81e-4f40-b5c8-abed015ef502) (due: Monday, July 6 ...today)
+  - Associated slides: [Markdown (PDF)](03a-markdown/markdown.pdf)
+- Do [Lab 3: Markdown](lab03-markdown/instructions.md) (due: Monday, July 6 ...today)
 
 ### Information  Architecture
 
-- Lab 5:  Information Architecture
+- Watch Lecture Video 5: Information Architecture (coming soon)
+- Do Lab 4: LATCH Websites (due: Friday, July 10 ...coming soon)
 
 <br>
+
 <hr>
 
 ## Wednesday, July 8, 2020
