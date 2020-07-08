@@ -70,24 +70,26 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### CSS Architecture
 
-- Lab 6: CSS Architecture
+- Watch [Lecture Video 6: CSS Architecture (Panopto 27:25)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=122f1d45-9e6c-4c73-af13-abf20000e90b) (due: Friday, July 8)
+  - Associated slides: [CSS Architecture (PDF)](04a-css-architecture/css-architecture.pdf)
+- Do [Lab 5: CSS Architecture](lab05-css-architecture/instructions.md) (due: Friday, July 10, 2020)
 
-### Principles of Page Design, part 1
+### [tbd]
 
-- Lab 7: Style
+- Lab 6: tbd
 
 <br>
 <hr>
 
 ## Friday, July 10, 2020
 
+### Principles of Page Design, part 1
+
+- Lab 7: Layout
+
 ### Principles of Page Design, part 2
 
-- Lab 8: Layout
-
-### Principles of Page Design, part 3
-
-- Lab 9: Readability and Typography
+- Lab 8: Readability and Typography
 
 <br>
 <hr>
@@ -96,11 +98,11 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Introduction to PHP and MySQL
 
-- Lab 10: Starter Scripts
+- Lab 9: Starter Scripts
 
 ### Four Database Functions
 
-- Lab 11: CRUD
+- Lab 10: CRUD
 
 <br>
 <hr>
@@ -109,11 +111,11 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Remote Databases
 
-- Lab 12: Remote Databases
+- Lab 11: Remote Databases
 
 ### Content Management Systems
 
-- Lab 13: WordPress
+- Lab 12: WordPress
 
 <br>
 <hr>
@@ -126,7 +128,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Persistent State, part 2
 
-- Lab 14: Login System
+- Lab 13: Login System
 
 <br>
 <hr>
@@ -135,9 +137,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Editable HTML Tables
 
-- Lab 15: Phonebook
+- Lab 14: Phonebook
 
-- Lab 16: User Survey
+- Lab 15: User Survey
 
 <br>
 <hr>

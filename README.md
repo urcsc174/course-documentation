@@ -4,19 +4,15 @@ Advanced Front-end Web Design and Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &#8678; here is the full list of slides, demo files, assignments, and related links
 
-## Monday, July 6, 2020
+## Wednesday, July 8, 2020
 
-### Markdown
+### CSS Architecture
 
-- Watch [Lecture Video 4: Markdown (Panopto 17:43)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ecdfc469-a81e-4f40-b5c8-abed015ef502) (due: Monday, July 6 ...today)
-  - Associated slides: [Markdown (PDF)](03a-markdown/markdown.pdf)
-- Do [Lab 3: Markdown](lab03-markdown/instructions.md) (due: Monday, July 6 ...today)
+- Watch [Lecture Video 6: CSS Architecture (Panopto 27:25)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=122f1d45-9e6c-4c73-af13-abf20000e90b) (due: Friday, July 8)
+  - Associated slides: [CSS Architecture (PDF)](04a-css-architecture/css-architecture.pdf)
+- Do [Lab 5: CSS Architecture](lab05-css-architecture/instructions.md) (due: Friday, July 10, 2020)
 
-## Information Architecture
-
-- Watch [Lecture Video 5: Information Architecture (Panopto 22:06)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18359391-3529-4013-85e2-abf001489672) (due: Wednesday, July 8)
-  - Associated slides: [Information Architecture (PDF)](03b-information-architecture/information-architecture.pdf)
-- Do [Lab 4: LATCH Website Examples](lab04-latch-websites/instructions.md) (due: Friday, July 10)
+### [more - coming soon]
 
 
 
