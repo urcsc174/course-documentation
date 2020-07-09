@@ -15,7 +15,9 @@ Advanced Front-end Web Design and Development
   - [SMACSS (website)](http://smacss.com/) and [SMACSS (PDF)](04a-css-architecture/smacss-2012-08-21.pdf) and [SMACSS Example (codepen)](https://codepen.io/jackw/pen/apVzYo)
 - Do [Lab 5: CSS Architecture](lab05-css-architecture/instructions.md) (due: Friday, July 10, 2020)
 
-### [more - coming soon]
+### Project 2: Information Architecture
+
+- Do [Project 2: Information Architecture](project2-information-architecture/instructions.md) (due: Monday, July 13)
 
 
 
