@@ -96,7 +96,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - Associated slides: [Principles of Page Design, part 1 (PDF)](05a-principles-of-page-design1/principles-of-page-design1.pdf)
   - [Gestalt Principles Applied in Design (article on the Web)](https://www.webfx.com/blog/web-design/gestalt-principles-applied-in-design/)
   - [User Inyerface (website)](https://userinyerface.com/) &#8678; *try it out!*
-- Do Lab 6: CRUD Principles (coming soon)
+- Do [Lab 6: CRUD Principles](lab06-crud-principles/instructions.md) (due: Monday, July 13)
 
 <br>
 <hr>
