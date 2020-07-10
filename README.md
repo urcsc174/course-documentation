@@ -8,7 +8,7 @@ Advanced Front-end Web Design and Development
 
 ### Live Discussion #2 - LATCH Website Examples
 
-- Recorded Session (Zoom - coming soon)
+- [Recorded Session (Zoom --> Panopto 1:40:09)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50665ab2-5d0f-476c-9153-abf4012131d8)
 
 ### Principles of Page Design, part 1 (CRUD)
 
