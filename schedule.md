@@ -52,37 +52,50 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Markdown
 
-- Lab 4:  Markdown
+- Watch [Lecture Video 4: Markdown (Panopto 17:43)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ecdfc469-a81e-4f40-b5c8-abed015ef502) (due: Monday, July 6 ...today)
+  - Associated slides: [Markdown (PDF)](03a-markdown/markdown.pdf)
+- Do [Lab 3: Markdown](lab03-markdown/instructions.md) (due: Monday, July 6 ...today)
 
 ### Information  Architecture
 
-- Lab 5:  Information Architecture
+- Watch [Lecture Video 5: Information Architecture (Panopto 22:06)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18359391-3529-4013-85e2-abf001489672) (due: Wednesday, July 8)
+  - Associated slides: [Information Architecture (PDF)](03b-information-architecture/information-architecture.pdf)
+- Do [Lab 4: LATCH Website Examples](lab04-latch-websites/instructions.md) (due: Friday, July 10)
 
 <br>
+
 <hr>
 
 ## Wednesday, July 8, 2020
 
 ### CSS Architecture
 
-- Lab 6: CSS Architecture
+- Watch [Lecture Video 6: CSS Architecture (Panopto 27:25)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=122f1d45-9e6c-4c73-af13-abf20000e90b) (due: Friday, July 8)
+  - Associated slides: [CSS Architecture (PDF)](04a-css-architecture/css-architecture.pdf)
+  - [Creating the Perfect CSS System (2018 article)](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)
+  - [Normalize CSS (website)](https://necolas.github.io/normalize.css/)
+  - [SMACSS (website)](http://smacss.com/) and [SMACSS (PDF)](04a-css-architecture/smacss-2012-08-21.pdf) and [SMACSS Example (codepen)](https://codepen.io/jackw/pen/apVzYo)
+- Do [Lab 5: CSS Architecture](lab05-css-architecture/instructions.md) (due: Friday, July 10, 2020)
 
-### Principles of Page Design, part 1
+### Project 2: Information Architecture
 
-- Lab 7: Style
+- Do [Project 2: Information Architecture](project2-information-architecture/instructions.md) (due: Monday, July 13)
 
 <br>
 <hr>
 
 ## Friday, July 10, 2020
 
-### Principles of Page Design, part 2
+### Live Discussion #2 - LATCH Website Examples
 
-- Lab 8: Layout
+- Recorded Session (Zoom - coming soon)
 
-### Principles of Page Design, part 3
+### Principles of Page Design, part 1 (CRUD)
 
-- Lab 9: Readability and Typography
+- Watch [Lecture Video 7: Principles of Page Design, part 1 (Panopto 29:11)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88c0361b-1d27-4b09-b55d-abf3012ee5cc) (due: Friday, July 10 ...today)
+  - Associated slides: [Principles of Page Design, part 1 (PDF)](05a-principles-of-page-design1/principles-of-page-design1.pdf)
+  - [User Inyerface (website)](https://userinyerface.com/)
+- Do Lab 6: CRUD Principles (coming soon)
 
 <br>
 <hr>
@@ -91,11 +104,11 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Introduction to PHP and MySQL
 
-- Lab 10: Starter Scripts
+- Lab 9: Starter Scripts
 
 ### Four Database Functions
 
-- Lab 11: CRUD
+- Lab 10: CRUD
 
 <br>
 <hr>
@@ -104,11 +117,11 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Remote Databases
 
-- Lab 12: Remote Databases
+- Lab 11: Remote Databases
 
 ### Content Management Systems
 
-- Lab 13: WordPress
+- Lab 12: WordPress
 
 <br>
 <hr>
@@ -121,7 +134,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Persistent State, part 2
 
-- Lab 14: Login System
+- Lab 13: Login System
 
 <br>
 <hr>
@@ -130,9 +143,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Editable HTML Tables
 
-- Lab 15: Phonebook
+- Lab 14: Phonebook
 
-- Lab 16: User Survey
+- Lab 15: User Survey
 
 <br>
 <hr>
