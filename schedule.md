@@ -94,7 +94,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - Watch [Lecture Video 7: Principles of Page Design, part 1 (Panopto 29:11)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88c0361b-1d27-4b09-b55d-abf3012ee5cc) (due: Friday, July 10 ...today)
   - Associated slides: [Principles of Page Design, part 1 (PDF)](05a-principles-of-page-design1/principles-of-page-design1.pdf)
-  - 
+  - [Gestalt Principles Applied in Design (article on the Web)](https://www.webfx.com/blog/web-design/gestalt-principles-applied-in-design/)
+  - [User Inyerface (website)](https://userinyerface.com/) &#8678; *try it out!*
 - Do Lab 6: CRUD Principles (coming soon)
 
 <br>
