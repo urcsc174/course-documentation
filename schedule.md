@@ -70,7 +70,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### CSS Architecture
 
-- Watch [Lecture Video 6: CSS Architecture (Panopto 27:25)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=122f1d45-9e6c-4c73-af13-abf20000e90b) (due: Friday, July 8)
+- Watch [Lecture Video 6: CSS Architecture (Panopto 27:25)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=122f1d45-9e6c-4c73-af13-abf20000e90b) (due: Friday, July 10)
   - Associated slides: [CSS Architecture (PDF)](04a-css-architecture/css-architecture.pdf)
   - [Creating the Perfect CSS System (2018 article)](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)
   - [Normalize CSS (website)](https://necolas.github.io/normalize.css/)
