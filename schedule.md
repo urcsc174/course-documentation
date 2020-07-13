@@ -109,7 +109,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - Associated slides: [Principles of Page Design, part 2 (PDF)](06a-principles-of-page-design2/page-layout.pdf)
 - Do Lab 8: Page Layout (coming soon)
 
-### Principles of Page Design, part 2 (Typography)
+### Principles of Page Design, part 3 (Typography)
 
 - Lecture Video 9 (coming soon)
 - Lab 9 (coming soon)
