@@ -103,13 +103,16 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Monday, July 13, 2020
 
-### Introduction to PHP and MySQL
+### Principles of Page Design, part 2 (Layout Patterns)
 
-- Lab 9: Starter Scripts
+- Watch [Lecture Video 8: Principles of Page Design, part 2 (Panopto 26:53)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bdee4bf-8368-4dc7-8f2d-abf601824f02) (due: Monday, July 13 ...today)
+  - Associated slides: [Principles of Page Design, part 2 (PDF)](06a-principles-of-page-design2/page-layout.pdf)
+- Do Lab 8: Page Layout (coming soon)
 
-### Four Database Functions
+### Principles of Page Design, part 2 (Typography)
 
-- Lab 10: CRUD
+- Lecture Video 9 (coming soon)
+- Lab 9 (coming soon)
 
 <br>
 <hr>

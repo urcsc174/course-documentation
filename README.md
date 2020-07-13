@@ -4,21 +4,16 @@ Advanced Front-end Web Design and Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &#8678; here is the full list of slides, demo files, assignments, and related links
 
-## Friday, July 10, 2020
+## Monday, July 13, 2020
 
-### Live Discussion #2 - LATCH Website Examples
+### Principles of Page Design, part 2 (Layout Patterns)
 
-- [Recorded Session (Zoom --> Panopto 1:40:09)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50665ab2-5d0f-476c-9153-abf4012131d8)
+- Watch [Lecture Video 8: Principles of Page Design, part 2 (Panopto 26:53)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bdee4bf-8368-4dc7-8f2d-abf601824f02) (due: Monday, July 13 ...today)
+  - Associated slides: [Principles of Page Design, part 2 (PDF)](06a-principles-of-page-design2/page-layout.pdf)
+- Do Lab 8: Page Layout (coming soon)
 
-### Principles of Page Design, part 1 (CRUD)
+### Principles of Page Design, part 2 (Typography)
 
-- Watch [Lecture Video 7: Principles of Page Design, part 1 (Panopto 29:11)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88c0361b-1d27-4b09-b55d-abf3012ee5cc) (due: Friday, July 10 ...today)
-  - Associated slides: [Principles of Page Design, part 1 (PDF)](05a-principles-of-page-design1/principles-of-page-design1.pdf)
-  - [Gestalt Principles Applied in Design (article on the Web)](https://www.webfx.com/blog/web-design/gestalt-principles-applied-in-design/)
-  - [User Inyerface (website)](https://userinyerface.com/) &#8678; *try it out!*
-- Do [Lab 6: CRUD Principles](lab06-crud-principles/instructions.md) (due: Monday, July 13)<br><br>
-
-<hr>
-
-- Do [Project 2: Information Architecture](https://docs.csc174.org/project2-information-architecture/instructions.html) (due: Monday, July 13)
+- Lecture Video 9 (coming soon)
+- Lab 9 (coming soon)
 
