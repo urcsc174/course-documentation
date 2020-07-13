@@ -107,7 +107,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - Watch [Lecture Video 8: Principles of Page Design, part 2 (Panopto 26:53)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bdee4bf-8368-4dc7-8f2d-abf601824f02) (due: Monday, July 13 ...today)
   - Associated slides: [Principles of Page Design, part 2 (PDF)](06a-principles-of-page-design2/page-layout.pdf)
-- Do Lab 7: Page Layout (coming soon)
+- Do [Lab 7: Page Layout](lab07-page-layout/instructions.md) (due: Wednesday, July 15)
 
 ### Principles of Page Design, part 3 (Typography)
 
