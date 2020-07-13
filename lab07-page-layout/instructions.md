@@ -18,7 +18,7 @@ For each design pattern, you need to create a **design comp** (*not* a wireframe
 - If you draw the **page layouts by hand** using paper, you'll need to take pictures of the pages; the pictures need to be good enough to clearly see your design intent
 - If you draw the **page layouts using software**, you'll need to export the drawings to PDF
 
-### Steps: F-Pattern Design
+### F-Pattern Design
 
 1. Briefly **review** everyone's personal webpages in all the Project 2s ([csc174.org/project2](http://csc174.org/project2/)); there are 21 in all
 2. Come-up with a design and create a **sketch of a new webpage** that will link directly to everyone's personal webpage in Project 2 (21 students in CSC 174, so there will be 21 items, total); in effect, you're designing an index page for everyone in CSC 174
@@ -33,7 +33,7 @@ For each design pattern, you need to create a **design comp** (*not* a wireframe
      - a photo
      - a link
 
-### Steps: Z-Pattern Design
+### Z-Pattern Design
 
 1. Come-up with a design and create a **sketch of a new webpage** (another "comp") that will welcome website visitors to the "2020 Fall Semester of CSC 174" website
    - The design must **use the Z-pattern**
