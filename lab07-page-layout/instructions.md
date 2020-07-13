@@ -8,7 +8,7 @@
 
 ## Requirements
 
-This lab assignment requires you to draw, using any means with which you're comfortable, two web page layouts: one using a F-pattern; and another using an Z-pattern
+This lab assignment requires you to draw, using any means with which you're comfortable, two web page layouts: one using an F-pattern; and another using a Z-pattern
 
 For each design pattern, you need to create a **design comp** (*not* a wireframe!)  The intent of the comp is to be *as realistic as possible* without actually using HTML and CSS. 
 
