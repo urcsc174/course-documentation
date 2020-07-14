@@ -14,6 +14,9 @@ Advanced Front-end Web Design and Development
 
 ### Principles of Page Design, part 3 (Typography)
 
-- Lecture Video 9 (coming soon)
+- Lecture Vid[eo 9: Principles of Page Design, part 3 (Panopto 36:28)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32fd2ef5-7bba-487c-9fdc-abf70137c576) (due: Tuesday, July 14 ...extra day)
+  - Associated slides: [Typography (PDF)](06b-principles-of-page-design3/typography.pdf)
+  - [10 Principles Of Readability And Web Typography (Smashing Magazine article)](https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/)
+  - [Design Principles for Developers: Processes and CSS Tips for Better Web Design (CSS Tricks article)](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)
 - Lab 8 (coming soon)
 
