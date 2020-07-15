@@ -4,6 +4,18 @@ Advanced Front-end Web Design and Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &#8678; here is the full list of slides, demo files, assignments, and related links
 
+## Wednesday, July 15, 2020
+
+### Project 3: Visual Design
+
+- Do [Project 3: Visual Design](project3-visual design/instructions.md) (due: Wednesday, July 22 ...extra time!)
+
+...more, coming soon
+
+
+
+
+
 ## Monday, July 13, 2020
 
 ### Principles of Page Design, part 2 (Layout Patterns)
@@ -18,5 +30,5 @@ Advanced Front-end Web Design and Development
   - Associated slides: [Typography (PDF)](06b-principles-of-page-design3/typography.pdf)
   - [10 Principles Of Readability And Web Typography (Smashing Magazine article)](https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/)
   - [Design Principles for Developers: Processes and CSS Tips for Better Web Design (CSS Tricks article)](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)
-- Lab 8 (coming soon)
+- <s>Lab 8 (coming soon)</s>
 

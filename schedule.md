@@ -122,13 +122,11 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Wednesday, July 15, 2020
 
-### Remote Databases
+- ### Project 3: Visual Design
 
-- Lab 11: Remote Databases
+  - Do [Project 3: Visual Design](project3-visual design/instructions.md) (due: Wednesday, July 22 ...extra time!)
 
-### Content Management Systems
-
-- Lab 12: WordPress
+...more, coming soon
 
 <br>
 <hr>
