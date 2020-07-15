@@ -55,7 +55,7 @@ As a team...
   - If any critiques for your website exist, read and consider them for improvements you might make in Project 3
   - You are not required implement the Lab 6 critiques (they're not all great) but some of them might be a good idea
 
-- **Pick approved Z-pattern and F-pattern** <s>comps</s> **...erm, *wireframes*** from the #lab7-page-layout channel in Slack
+- **Pick approved Z-pattern and F-pattern** <s>comps</s> ...erm, ***wireframes*** from the #lab7-page-layout channel in Slack
   - You can pick any ...doesn't have to be your own; and you can mix and match F- and Z- patterns
   - Hint: look for ones that look like they fulfill the requirements from Lab 7 very well and is *implementable*
   - Note: you will be graded on how well you replicate the wireframes you chose
@@ -71,7 +71,7 @@ As a team...
 
 - Your team will be graded on:
   - Implementation of a **Z-pattern** as the new homepage as defined by the wireframe chosen
-  - Implementation of an **F**-pattern as a secondary page as defined by the wireframe chosen
+  - Implementation of an **F-pattern** as a secondary page as defined by the wireframe chosen
   - Use of **CRAP principles** everywhere (five webpages total)
   - Use of the 10 **principles for readability**, everywhere
   - Good choices for **typography** including **well-paired typefaces** (fonts)
