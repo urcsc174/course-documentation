@@ -78,7 +78,6 @@ As a team...
   - Use of the **Rule of Thirds** and/or the **Golden Ratio** throughout the website
 - Document all the design improvements in a **readme.md**
   - Include at the top of the readme:
-
     - Your city-team's name
     - Everyone's name
   -  Note: do *not* make a terribly long and detailed document about your design improvements; just a list of what and where was changed AND the design principle that was applied
