@@ -124,7 +124,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Project 3: Visual Design
 
-- Do [Project 3: Visual Design](project3-visual design/instructions.md) (due: Wednesday, July 22 ...extra time!)
+- Do [Project 3: Visual Design](project3-visual-design/instructions.md) (due: Wednesday, July 22 ...extra time!)
   - Watch the supplemental video: **about Project 3**: [Project 3 Information (Panopto 5:17)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3257f75e-09e0-411c-90a5-abf900d3cf14)
 
 ...more, information coming soon
