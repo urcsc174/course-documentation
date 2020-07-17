@@ -4,11 +4,15 @@ Advanced Front-end Web Design and Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &#8678; here is the full list of slides, demo files, assignments, and related links
 
-## Wednesday, July 15, 2020
+## Friday, July 17, 2020
 
-### Project 3: Visual Design
+### Live Discussion #2 - CSS Master Class
 
-- Do [Project 3: Visual Design](project3-visual-design/instructions.md) (due: Wednesday, July 22 ...extra time!)
-  - Watch the supplemental video: **about Project 3**: [Project 3 Information (Panopto 5:17)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3257f75e-09e0-411c-90a5-abf900d3cf14)
+- Recorded Session (Zoom --> Panopto ...coming soon)
+  - Scheduled for 10:00 AM EDT
+  - https://rochester.zoom.us/j/91217928224 (password in Slack)
 
-...more, information coming soon
+<hr>
+
+Underway: [Project 3: Visual Design](project3-visual-design/instructions.md) (due: Wednesday, July 22)
+

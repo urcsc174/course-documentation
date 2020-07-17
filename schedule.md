@@ -127,35 +127,24 @@ This schedule is subject to modification throughout the semester. Always check w
 - Do [Project 3: Visual Design](project3-visual-design/instructions.md) (due: Wednesday, July 22 ...extra time!)
   - Watch the supplemental video: **about Project 3**: [Project 3 Information (Panopto 5:17)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3257f75e-09e0-411c-90a5-abf900d3cf14)
 
-...more, information coming soon
-
-
-
-
-
 <br>
+
 <hr>
 
 ## Friday, July 17, 2020
 
-### Persistent State, part 1
+- ### Live Discussion #2 - CSS Master Class
 
-- ...
-
-### Persistent State, part 2
-
-- Lab 13: Login System
+  - Recorded Session (Zoom --> Panopto ...coming soon)
 
 <br>
 <hr>
 
 ## Monday, July 20, 2020
 
-### Editable HTML Tables
+### [topic a]
 
-- Lab 14: Phonebook
-
-- Lab 15: User Survey
+### [topic b]
 
 <br>
 <hr>
