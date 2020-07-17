@@ -10,7 +10,7 @@ Advanced Front-end Web Design and Development
 
 - Recorded Session (Zoom --> Panopto ...coming soon)
   - Scheduled for 10:00 AM EDT
-  - https://rochester.zoom.us/j/91217928224 (password in Slack)
+  - [https://rochester.zoom.us/j/91217928224](https://rochester.zoom.us/j/91217928224) (password in Slack)
 
 <hr>
 
