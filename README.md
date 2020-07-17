@@ -11,6 +11,9 @@ Advanced Front-end Web Design and Development
 - Recorded Session (Zoom --> Panopto ...coming soon)
   - Scheduled for 10:00 AM EDT
   - [https://rochester.zoom.us/j/91217928224](https://rochester.zoom.us/j/91217928224) (password in Slack)
+  - [Team Workflow Diagram (PDF)](08a-css-master-class/team-workflow.pdf)
+  - [Long Scrolly Template (ZIP)](08a-css-master-class/long-scrolly_template.zip)
+  - [Z-pattern - Bears (ZIP)](08a-css-master-class/bears.zip)
 
 <hr>
 
