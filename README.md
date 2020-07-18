@@ -6,12 +6,9 @@ Advanced Front-end Web Design and Development
 
 ## Friday, July 17, 2020
 
-### Live Discussion #2 - CSS Master Class
+### Live Discussion #3 - CSS Master Class
 
-- Recorded Session (Zoom --> Panopto ...coming soon)
-  - Scheduled for 10:00 AM EDT
-  - [https://rochester.zoom.us/j/91217928224](https://rochester.zoom.us/j/91217928224) (password in Slack)
-  - [Team Workflow Diagram (PDF)](08a-css-master-class/team-workflow.pdf)
+- [Recorded Session (Zoom --> Panopto 1:33:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92a8e0be-df19-448f-ba3a-abfb015f2f4e)
   - [Long Scrolly Template (ZIP)](08a-css-master-class/long-scrolly_template.zip)
   - [Z-pattern - Bears (ZIP)](08a-css-master-class/bears.zip)
 
