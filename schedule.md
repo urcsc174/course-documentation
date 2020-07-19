@@ -115,7 +115,6 @@ This schedule is subject to modification throughout the semester. Always check w
   - Associated slides: [Typography (PDF)](06b-principles-of-page-design3/typography.pdf)
   - [10 Principles Of Readability And Web Typography (Smashing Magazine article)](https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/)
   - [Design Principles for Developers: Processes and CSS Tips for Better Web Design (CSS Tricks article)](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)
-- Lab 8 (coming soon)
 
 <br>
 <hr>
@@ -140,42 +139,62 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Z-pattern - Bears (ZIP)](08a-css-master-class/bears.zip)
 
 <br>
+
 <hr>
 
 ## Monday, July 20, 2020
 
-### [topic a]
+### Introduction to PHP with MySQL
 
-### [topic b]
+- Do: Lab 8 Starter Scripts
+
+### Four Database Functions (CRUD)
+
+- Do: Lab 9 CRUD
 
 <br>
 <hr>
 
 ## Wednesday, July 22, 2020
 
-### [topic a]
+### Remote Databases
 
-### [topic b]
+- Lab 10: Starter Scripts
+
+### Content Management Systems
+
+- Lab 11: WordPress 
 
 <br>
+
 <hr>
 
 ## Friday, July 24, 2020
 
-### [topic a]
+### Persistent State, part 1
 
-### [topic b]
+- Lab 12: Secure Login System
+
+### Persistent State, part 2
+
+- Lab 13: Phonebook
 
 <br>
+
 <hr>
 
 ## Monday, July 27, 2020
 
-### [topic a]
+### Editable HTML Tables
 
-### [topic b]
+- Lab 14: User Survey
+
+### Web Accessibility
+
+- Lab 15: WAI-ARIA
 
 <br>
+
 <hr>
 
 ## Wednesday, July 29, 2020
