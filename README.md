@@ -22,6 +22,7 @@ Advanced Front-end Web Design and Development
     - Enter on the command line: `cd C:\MAMP\bin\mysql\bin`
     - Enter on the command line: `mysql -uroot -proot`
     - Then follow-along with the rest of the video
+  - Also (Mac and Windows users): IF you don't have a "demo" database in mysql, then enter this on the command line in mysql: `CREATE DATABASE database demo;`
   - [MySQL utility files (ZIP)](09a-php-and-mysql1/intro-mysql.zip)
     - Download and extract these files to your localhost web root
   - [Basic MySQL Tutorial (website)](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
