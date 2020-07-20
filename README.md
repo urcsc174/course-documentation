@@ -33,6 +33,8 @@ Advanced Front-end Web Design and Development
 - Watch [Lecture Video 11: Introduction to PHP with MySQL, part 2 (Panopto 1:06:39)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89da5765-8d56-4900-bbd1-abfe00f97ebc) (due: Wednesday, July 22)
   - Associated Slides: [PHP with MySQL, part 2 (PDF)](09b-php-and-mysql2/php-and-mysql2.pdf)
 - Do follow-along lab #2: Starter Scripts (not graded)
+  - [Intro-MySQL2 files (ZIP)](09b-php-and-mysql2/intro-mysql2.zip)
+    - Download and extract these files to your localhost web root
 
 
 
