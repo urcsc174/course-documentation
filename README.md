@@ -6,13 +6,17 @@ Advanced Front-end Web Design and Development
 
 ## Monday, July 20, 2020
 
-### Introduction to PHP with MySQL
+### Introduction to PHP with MySQL, part 1
 
-- Do: Lab 8 Starter Scripts
+- Watch [Lecture Video 10: Introduction to PHP with MySQL, part 1 (Panopto 28:08)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a834c0f3-0e21-43e3-b954-abfe000ae858) (due: today, Monday, July 20)
+  - [MySQL utility files (ZIP)](09a-php-and-mysql1/intro-mysql.zip)
+  - [Basic MySQL Tutorial (website, optional)](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
+- Do follow-along lab, not graded: MySQL check
 
-### Four Database Functions (CRUD)
+### Introduction to PHP with MySQL, part 2
 
-- Do: Lab 9 CRUD
+- Watch Lecture 11 Video (coming soon)
+- Do: Lab 8 Starter Scripts (coming soon)
 
 
 

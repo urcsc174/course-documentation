@@ -146,16 +146,31 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Introduction to PHP with MySQL
 
-- Do: Lab 8 Starter Scripts
+- Watch [Lecture Video 10: Introduction to PHP with MySQL, part 1 (Panopto 28:08)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a834c0f3-0e21-43e3-b954-abfe000ae858) (due: today, Monday, July 20)
+  - [MySQL utility files (ZIP)](09a-php-and-mysql1/intro-mysql.zip)
+  - [Basic MySQL Tutorial (website, optional)](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
+- Do follow-along lab from lecture videow: MySQL check (not graded)
 
-### Four Database Functions (CRUD)
+### Introduction to PHP with MySQL, part 2
 
-- Do: Lab 9 CRUD
+- Watch Lecture 11 Video (coming soon)
+- Do: Lab 8 Starter Scripts (coming soon)
 
 <br>
+
 <hr>
 
 ## Wednesday, July 22, 2020
+
+### Four Database Functions
+
+- Lab 9: CRUD
+
+<br>
+
+<hr>
+
+## Friday, July 24, 2020
 
 ### Remote Databases
 
@@ -168,8 +183,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <br>
 
 <hr>
-
-## Friday, July 24, 2020
+## Monday, July 27, 2020
 
 ### Persistent State, part 1
 
@@ -183,7 +197,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-## Monday, July 27, 2020
+## Wednesday, July 29, 2020
 
 ### Editable HTML Tables
 
@@ -192,16 +206,6 @@ This schedule is subject to modification throughout the semester. Always check w
 ### Web Accessibility
 
 - Lab 15: WAI-ARIA
-
-<br>
-
-<hr>
-
-## Wednesday, July 29, 2020
-
-### [topic a]
-
-### [topic b]
 
 <br>
 <hr>
