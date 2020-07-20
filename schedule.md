@@ -147,14 +147,14 @@ This schedule is subject to modification throughout the semester. Always check w
 ### Introduction to PHP with MySQL, part 1
 
 - Watch [Lecture Video 10: Introduction to PHP with MySQL, part 1 (Panopto 28:08)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a834c0f3-0e21-43e3-b954-abfe000ae858) (due: today, Monday, July 20)
-- Do follow-along lab from the lecture: MySQL check (not graded)
+- Do follow-along lab #1: MySQL check (not graded)
   - ***Mac Users...*** how to start **mysql** on a Mac (assuming you're using *MAMP*):
     - In the video at: 8:15... 
     - Start the Terminal program
     - Enter on the command line: `cd /Applications/MAMP/Library/bin/`
     - Enter on the command line: `./mysql -uroot -proot`
     - Then follow-along with the rest of the video
-  - ***Windows Users...*** missing from the video, how to start **mysql** in Windows (assuming you're using *MAMP for Windows*):
+  - ***Windows Users...*** (missing from the video) how to start **mysql** in Windows (assuming you're using *MAMP for Windows*):
     - In the video at: 8:15... 
     - Start a command prompt (cmd)
     - Enter on the command line: `cd C:\MAMP\bin\mysql\bin`
@@ -168,8 +168,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Introduction to PHP with MySQL, part 2
 
-- Watch Lecture 11 Video (coming soon)
-- Do: Lab 8 Starter Scripts (coming soon)
+- Watch [Lecture Video 11: Introduction to PHP with MySQL, part 2 (Panopto 1:06:39)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89da5765-8d56-4900-bbd1-abfe00f97ebc) (due: Wednesday, July 22)
+  - Associated Slides: [PHP with MySQL, part 2 (PDF)](09b-php-and-mysql2/php-and-mysql2.pdf)
+- Do follow-along lab #2: Starter Scripts (not graded)
 
 <br>
 
@@ -198,6 +199,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <br>
 
 <hr>
+
 ## Monday, July 27, 2020
 
 ### Persistent State, part 1
