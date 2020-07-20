@@ -152,7 +152,7 @@ This schedule is subject to modification throughout the semester. Always check w
     - In the video at: 8:15... 
     - Start the Terminal program
     - Enter on the command line: `cd /Applications/MAMP/Library/bin/`
-    - Enter on the command line: `./mysql --host=localhost -uroot -proot`
+    - Enter on the command line: `./mysql -uroot -proot`
     - Then follow-along with the rest of the video
   - ***Windows Users...*** missing from the video, how to start **mysql** in Windows (assuming you're using *MAMP for Windows*):
     - In the video at: 8:15... 
@@ -160,7 +160,7 @@ This schedule is subject to modification throughout the semester. Always check w
     - Enter on the command line: `cd C:\MAMP\bin\mysql\bin`
     - Enter on the command line: `mysql -uroot -proot`
     - Then follow-along with the rest of the video
-  - Also (Mac and Windows users): IF you don't have a "demo" database in mysql, then enter this on the command line in mysql: `CREATE DATABASE database demo;`
+  - Also (Mac and Windows users): IF you don't have a "demo" database in mysql, then enter this on the command line in mysql: `CREATE DATABASE demo;`
   - [MySQL utility files (ZIP)](09a-php-and-mysql1/intro-mysql.zip)
     - Download and extract these files to your localhost web root
   - [Basic MySQL Tutorial (website)](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
