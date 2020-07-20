@@ -10,7 +10,13 @@ Advanced Front-end Web Design and Development
 
 - Watch [Lecture Video 10: Introduction to PHP with MySQL, part 1 (Panopto 28:08)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a834c0f3-0e21-43e3-b954-abfe000ae858) (due: today, Monday, July 20)
 - Do follow-along lab from the lecture: MySQL check (not graded)
-  - ***Windows Users...*** missing from the video, how to start **mysql** in Windows (assuming you're using *MAMP for Windows*):
+  - ***Mac Users...*** how to start **mysql** on a Mac (assuming you're using *MAMP*):
+    - In the video at: 8:15... 
+    - Start the Terminal program
+    - Enter on the command line: `cd /Applications/MAMP/Library/bin/`
+    - Enter on the command line: `./mysql --host=localhost -uroot -proot`
+    - Then follow-along with the rest of the video
+  - ***Windows Users...*** (missing from the video) how to start **mysql** in Windows (assuming you're using *MAMP for Windows*):
     - In the video at: 8:15... 
     - Start a command prompt (cmd)
     - Enter on the command line: `cd C:\MAMP\bin\mysql\bin`
