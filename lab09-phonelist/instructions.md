@@ -15,7 +15,7 @@ Both Lab 9 and 10 will be graded after you complete both parts.
 
 ## Installation
 
-In this step you need to just install an pre-built application by setting up a new database, editing your files so they work with it, and then testing to make sure everything works.
+In this step you need to just install a pre-built application by setting up a new database, editing your files so they work with it, and then testing to make sure everything works.
 
 - Download and extract [this set of starter files, phonelist.zip](lab09-phonelist/phonelist.zip) to a new folder named **lab09** in your web root
 - Start your localhost (MAMP or MAMP for Windows), if not already
@@ -26,7 +26,7 @@ In this step you need to just install an pre-built application by setting up a n
 - In **phpMyAdmin**, click on the **lab09** database and ***Import*** the **phonelist.sql** file
   - Check to see if the SQL script worked...
   - There should be a new table, "*phonelist*" in your database with three fields: **id**, **firstname**, and **lastname**
-  - When you *browse* the phonelist table, you should see one record, *1* | *Placholder* | *Delete Me!*
+  - When you *browse* the phonelist table, you should see one record, *1* \| *Placholder* \| *Delete Me!*
 - Test to make sure you can connect to your database from a PHP file running in your localhost
   - Enter the user, password, database credentials in your **testmysql.php** file; save and close the file
   - Open **testmysql.php** in a web browser
