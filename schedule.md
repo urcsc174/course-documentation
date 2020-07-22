@@ -147,7 +147,7 @@ This schedule is subject to modification throughout the semester. Always check w
 ### Introduction to PHP with MySQL, part 1
 
 - Watch [Lecture Video 10: Introduction to PHP with MySQL, part 1 (Panopto 28:08)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a834c0f3-0e21-43e3-b954-abfe000ae858) (due: today, Monday, July 20)
-- Do follow-along lab #1: MySQL check (not graded)
+- Follow-along lab #1: MySQL check (not graded)
   - ***Mac Users...*** how to start **mysql** on a Mac (assuming you're using *MAMP*):
     - In the video at: 8:15... 
     - Start the Terminal program
@@ -170,7 +170,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - Watch [Lecture Video 11: Introduction to PHP with MySQL, part 2 (Panopto 1:06:39)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89da5765-8d56-4900-bbd1-abfe00f97ebc) (due: Wednesday, July 22)
   - Associated Slides: [PHP with MySQL, part 2 (PDF)](09b-php-and-mysql2/php-and-mysql2.pdf)
-- Do follow-along lab #2: Starter Scripts (not graded)
+- Follow-along lab #2: Starter Scripts (not graded)
   - [Intro-MySQL2 files (ZIP)](09b-php-and-mysql2/intro-mysql2.zip)
     - Download and extract these files to your localhost web root
 
@@ -182,7 +182,13 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Four Database Functions
 
-- Lab 9: CRUD
+- Watch [Lecture Video 12: Four Database Functions (Panopto nn:03)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb9a4646-8db2-4835-8e45-abff01147b55) (due: today, Wednesday, July 22)
+  - Associated slides: [HTML Forms Review (PDF)](10a-html-forms-review/HTML Forms Review.pdf)
+- Do [Lab 8: Starter Scripts](lab08-starter-scripts/instructions.md) (due: Friday, July 24 )
+
+## Phonebook Application
+
+- Do Lab 9: Phonebook (coming soon)
 
 <br>
 
