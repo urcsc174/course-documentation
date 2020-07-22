@@ -17,7 +17,7 @@ Both Lab 9 and 10 will be graded after you complete both parts.
 
 In this step you need to just install a pre-built application by setting up a new database, editing your files so they work with it, and then testing to make sure everything works.
 
-- Download and extract [this set of starter files, phonelist.zip](lab09-phonelist/phonelist.zip) to a new folder named **lab09** in your web root
+- Download and extract [this set of starter files, phonelist.zip](phonelist.zip) to a new folder named **lab09** in your web root
 - Start your localhost (MAMP or MAMP for Windows), if not already
 
 - In **phpMyAdmin**, create a new database, and an associated user/password
