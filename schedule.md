@@ -188,7 +188,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Phonebook Application
 
-- Do Lab 9: Phonebook (coming soon)
+- Do [Lab 9: Phonebook](lab09-phonelist/instructions) (due: Friday, July 24)
+  - Associated files (also linked in the instructions):  [Starter files, phonelist.zip](lab09-phonelist/phonelist.zip) 
 
 <br>
 
