@@ -10,7 +10,7 @@ To get credit for your work:
 
 - Simply compress (ZIP) your **intro-mysql2** folder and submit it in Blackboard in **Lab 8: Starter Scripts**
 
-  In that compressed folders there should be the following files that resemble the code from the lecture videos...
+  In that compressed folder there should be the following files that resemble the code from the lecture videos...
 
   - **config.php**
   - **delete.php**
