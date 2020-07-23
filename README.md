@@ -4,6 +4,21 @@ Advanced Front-end Web Design and Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &#8678; here is the full list of slides, demo files, assignments, and related links
 
+## Friday, July 24, 2020
+
+### Remote Databases
+
+- Lab 10: Remote Databases
+
+### Live Discussion #4
+
+- Discuss: Project 3 Debrief
+- Discuss: React.js (Project 4?)
+
+
+
+<hr>
+
 ## Wednesday, July 22, 2020
 
 ### Four Database Functions
@@ -16,8 +31,4 @@ Advanced Front-end Web Design and Development
 
 - Do [Lab 9: Phonebook](lab09-phonelist/instructions) (due: Friday, July 24)
   - Associated files (also linked in the instructions):  [Starter files, phonelist.zip](lab09-phonelist/phonelist.zip) 
-
-<hr>
-
-Due today: [Project 3: Visual Design](project3-visual-design/instructions.md) 
 

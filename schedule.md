@@ -199,11 +199,12 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Remote Databases
 
-- Lab 10: Starter Scripts
+- Lab 10: Remote Databases
 
-### Content Management Systems
+### Live Discussion #4
 
-- Lab 11: WordPress 
+- Discuss: Project 3 Debrief
+- Discuss: React.js (Project 4?)
 
 <br>
 
@@ -211,13 +212,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Monday, July 27, 2020
 
+### CSS Frameworks
+
 ### Persistent State, part 1
-
-- Lab 12: Secure Login System
-
-### Persistent State, part 2
-
-- Lab 13: Phonebook
 
 <br>
 
@@ -225,29 +222,26 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Wednesday, July 29, 2020
 
+### Persistent State, part 2
+
 ### Editable HTML Tables
 
-- Lab 14: User Survey
-
-### Web Accessibility
-
-- Lab 15: WAI-ARIA
-
 <br>
+
 <hr>
 
 ## Friday, July 31, 2020
 
-### [topic a]
+### Content Management Systems
 
-### [topic b]
+### Live Discussion #4 The CMS Industry
 
 <br>
 <hr>
 
 ## Monday, August 3, 2020
 
-### [topic a]
+### Web Accessibility
 
 ### [topic b]
 
