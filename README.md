@@ -13,8 +13,6 @@ Advanced Front-end Web Design and Development
 
 - Do [Lab 10: Remote Databases](lab10-remote-phonebook-application/instructions.md) (due: Monday, July 27)
 
-### Live Discussion #4
+### Live Discussion #4 - Project 3 Debrief
 
-- Discuss: Project 3 Debrief
-- Discuss: React.js (Project 4?)
-
+- [Recorded Session (Zoom --> Panopto 1:24:10)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec5c9e1c-6ad5-4766-a08c-ac02012d061e)
