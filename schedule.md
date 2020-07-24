@@ -199,7 +199,10 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Remote Databases
 
-- Lab 10: Remote Databases
+- Watch [Lecture Video 13: Remote Database (Panopto 26:26)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ded768c-1b7f-4a8e-8237-ac01014c9245) (due: Friday, July 24, today)
+  - Associated slides: [Remote Databases (PDF)](11a-remote-databases/remote-databases.pdf)
+
+- Do [Lab 10: Remote Databases](lab10-remote-phonebook-application/instructions.md) (due: Monday, July 27)
 
 ### Live Discussion #4
 
