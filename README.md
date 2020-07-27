@@ -11,7 +11,7 @@ Advanced Front-end Web Design and Development
 - Watch [Lecture Video 14: Templates, Libraries, and Frameworks (Panopto 21:11)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5bba1ffc-1ece-442d-8365-ac050103fd74) (due: Wednesday, July 29 ...extended time)
   - [Good article about CSS Frameworks - pros & cons (article)](https://geekflare.com/best-css-frameworks/)
   - Associated slides: [Templates, Libraries, and Frameworks (PDF)](12a-templates-libraries-frameworks/templates-libraries-frameworks.pdf)
-- Lab 11: CSS Frameworks (coming soon)
+- [Lab 11: CSS Frameworks](lab11-css-frameworks/instructions.md) (due: Wednesday, July 29 ...extended time)
 
 ### Project 4: Data Entry
 
