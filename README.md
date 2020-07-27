@@ -15,8 +15,8 @@ Advanced Front-end Web Design and Development
 
 ### Project 4: Data Entry
 
-*Coming soon...*
+*Postponed until Wednesday...*
 
-- Do Project 4: Data Entry (due: Friday, July 31)
+- Do Project 4: Data Entry (due: TBD)
   - Watch the supplemental video: about Project 4 (Panopto n:nn)
 

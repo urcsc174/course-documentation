@@ -224,7 +224,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Project 4: Data Entry
 
-- Do Project 4: Data Entry (due: Friday, July 31)
+*Postponed until Wednesday...*
+
+- Do Project 4: Data Entry (due: TBD)
   - Watch the supplemental video: about Project 4 (Panopto n:nn)
 
 <br>
