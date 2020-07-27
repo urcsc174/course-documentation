@@ -200,8 +200,9 @@ This schedule is subject to modification throughout the semester. Always check w
 ### Remote Databases
 
 - Watch [Lecture Video 13: Remote Database (Panopto 26:26)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ded768c-1b7f-4a8e-8237-ac01014c9245) (due: Friday, July 24, today)
-  - Associated slides: [Remote Databases (PDF)](11a-remote-databases/remote-databases.pdf)
-
+  
+- Associated slides: [Remote Databases (PDF)](11a-remote-databases/remote-databases.pdf)
+  
 - Do [Lab 10: Remote Databases](lab10-remote-phonebook-application/instructions.md) (due: Monday, July 27)
 
 - ### Live Discussion #4 - Project 3 Debrief
@@ -214,9 +215,16 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Monday, July 27, 2020
 
-### CSS Frameworks
+### Templates, Libraries, and Frameworks
 
-### Persistent State, part 1
+- Watch Lecture Video 14: Templates, Libraries, and Frameworks (Panopto n:nn) (due: Monday, July 27 ...today)
+  - Associated slides: Templates, Libraries, and Frameworks
+- Lab 11: CSS Frameworks
+
+### Project 4: Data Entry
+
+- Do Project 4: Data Entry (due: Friday, July 31)
+  - Watch the supplemental video: about Project 4 (Panopto n:nn)
 
 <br>
 
@@ -224,9 +232,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Wednesday, July 29, 2020
 
-### Persistent State, part 2
+###Persistent State, part 1
 
-### Editable HTML Tables
+### Persistent State, part 2
 
 <br>
 
@@ -234,18 +242,18 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Friday, July 31, 2020
 
-### Content Management Systems
+### Editable HTML Tables
 
-### Live Discussion #4 The CMS Industry
+### Live Discussion #5
 
 <br>
 <hr>
 
 ## Monday, August 3, 2020
 
-### Web Accessibility
+### Content Management Systems
 
-### [topic b]
+### Web Accessibility
 
 <br>
 <hr>
