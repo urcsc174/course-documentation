@@ -222,22 +222,17 @@ This schedule is subject to modification throughout the semester. Always check w
   - Associated slides: [Templates, Libraries, and Frameworks (PDF)](12a-templates-libraries-frameworks/templates-libraries-frameworks.pdf)
 - [Lab 11: CSS Frameworks](lab11-css-frameworks/instructions.md) (due: Wednesday, July 29 ...extended time)
 
-### Project 4: Data Entry
-
-*Postponed until Wednesday...*
-
-- Do Project 4: Data Entry (due: TBD)
-  - Watch the supplemental video: about Project 4 (Panopto n:nn)
-
 <br>
 
 <hr>
-
 ## Wednesday, July 29, 2020
 
-###Persistent State, part 1
+### Project 4: Data Entry Application
 
-### Persistent State, part 2
+- Do [Project 4: Data Entry Application](project4-data-entry-application/instructions.md) (due: TBD)
+  - Note: the due date will be posted shortly, after some discussion about it
+
+###Persistent State, part 1
 
 <br>
 
@@ -245,9 +240,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Friday, July 31, 2020
 
-### Editable HTML Tables
+### Persistent State, part 2
 
-### Live Discussion #5
+### Editable HTML Tables
 
 <br>
 <hr>
