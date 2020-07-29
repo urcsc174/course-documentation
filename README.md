@@ -8,7 +8,7 @@ Advanced Front-end Web Design and Development
 
 ### Live Discussion #5 - CSS Frameworks
 
-- [Recorded Session (Zoom --> Panopto 36:06)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71142890-5809-4a31-83b4-ac0700f8e790)
+- [Recorded Session (Zoom --> Panopto 35:35)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71142890-5809-4a31-83b4-ac0700f8e790)
 
 ### Project 4: Data Entry Application
 
