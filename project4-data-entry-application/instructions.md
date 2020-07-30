@@ -1,6 +1,6 @@
 # Project 4: Data Entry Application
 
-*Due: TBD*
+*Due: Monday, August 3, 2020*
 
 **The goal** of this project is to start with an existing website (another team's Project 3) and...
 
@@ -33,6 +33,28 @@ Be advised, the roles will involve the following responsibilities:
   - Your Project 4 city must be different than your Project 3 city
 - Then, establish contact with your new City-Team
   - When you have a team, follow the same steps as before to create a *new* private channel in Slack and invite the other members
+
+### NEW: Changes to the Student Index Page
+
+*Keeping in mind that CSC 174 is a **Front-end** Web Course, we do not want to belabor the Technician's responsibilities with the back-end database.  So...*
+
+- It is acceptable to *not* replicate the photos on the Student Index webpage
+
+  - Doing so would require the Technician to figure out how to upload image files from the HTML form to the database, and then download them dynamically to display in the Student Index page
+
+  - It is possible to implement the photos anyway using one of two methods: 
+
+    - BLOBs in the database (not the industry standard) or 
+    - File-pointer references (recommended but could be tricky) in the web server's file system 
+
+    ...which would be GREAT if the Technician could do that!  But if the Technician does not want to spend the time implementing that, that's okay
+
+- If the Technician choses to *not* implement the photos for the Student Index page, then the team must replace that element with something else
+
+  - The existing ontology requires: (1) name; (2) photo; (3) excerpt; and (4) link to student page ...which can be changed to something/anything else.  
+  - Suggestion: (1) name; (2) <s>photo</s> **favorite quote**; (3) excerpt; and (4) link to student page
+
+  ...which would require someone (preferably the IA) getting the new content.
 
 ### Roles and Recommended Steps
 
