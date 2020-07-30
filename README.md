@@ -13,10 +13,6 @@ Advanced Front-end Web Design and Development
 
 ### Project 4: Data Entry Application
 
-- Do [Project 4: Data Entry Application](project4-data-entry-application/instructions.md) (due: TBD)
-  - Note: the due date will be posted shortly, after some discussion about it
-
-### Persistent State, part 1
-
-- coming soon...
+- Do [Project 4: Data Entry Application](project4-data-entry-application/instructions.md) (due: Monday, August 3)
+  - Note: instructions updated - [see the "NEW" section](https://docs.csc174.org/project4-data-entry-application/instructions.html#new-changes-to-the-student-index-page)
 
