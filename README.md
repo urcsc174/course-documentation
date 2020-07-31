@@ -6,10 +6,12 @@ Advanced Front-end Web Design and Development
 
 ## Friday, July 31, 2020
 
-- Persistent State, part 1
-- Lab 12: Secure Login System
+- Watch [Lecture Video 15: Persistent State (Panopto 10:07)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=837fb61e-5ce7-406f-8a92-ac0900e25491) (due: Friday, July 31 ...today)
+  - Associated slides: [Persistent State (PDF)](13a-persistent-state/persistent-state.pdf)
+- Do: [Lab 12: Secure Login System](lab12-secure-login-system/instructions.md) (due: Monday, August 3)
+<br>
 
-
+<hr>
 
 Continue work on [Project 4: Data Entry Application](project4-data-entry-application/instructions.md) (due: Monday, August 3)
 
