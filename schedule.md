@@ -225,6 +225,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <br>
 
 <hr>
+
 ## Wednesday, July 29, 2020
 
 ### Live Discussion #5 - CSS Frameworks
@@ -245,6 +246,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Persistent State, part 1
 
+- Persistent State, part 1
+- Lab 12: Secure Login System
+
 <br>
 <hr>
 
@@ -255,6 +259,7 @@ This schedule is subject to modification throughout the semester. Always check w
 ### Editable HTML Tables
 
 <br>
+
 <hr>
 
 ## Wednesday, August 5, 2020
