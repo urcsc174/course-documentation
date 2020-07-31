@@ -5,7 +5,7 @@
 **The goal** of this project is to start with an existing website (another team's Project 3) and...
 
 - Power the student index page from Project 3 (the F-pattern page) with a **backend database** to display the student information
-- Create a **new front-end web form** on a new webpage to fill that database
+- Create a **new front-end web form** on a new webpage to add records to that database (and update and delete records)
 - Style the front-end web form using a **CSS Framework**
 
 **The purpose** of this project is to work as a team to practice new skills: building a web application that has both a front-end and a back-end, and integrating it into an existing website
@@ -16,13 +16,13 @@ For this project, not only do you need to choose a new city-team in which to wor
 
 Be advised, the roles will involve the following responsibilities:
 
-- The **Information Architect** will need to figure out how and where to include the new data-entry web page, and exactly what content is needed to explain it (headings, prompts, labels ...everything to explain what the user needs to know); the IA will also need to code the HTML form on the new data-entry web-page (although the Technician is tasked to make it valid and make it work).
+- The **Information Architect** will need to figure out how and where to include the new data-entry web page, and exactly what content is needed to explain it (headings, prompts, labels ...everything to explain what the user needs to know); the IA will also need to code the HTML form on the new data-entry web-page (although the Technician is tasked to make it valid and make it work).  The HTML form will need to allow the user to create, view (read) update,  and delete records (CRUD)
 
 - The **Visual Designer** must take direction from the IA and apply styles to the new data-entry web page using a CSS Framework of their choice, *plus* custom styles to make the new web page look like it belongs to the website from a stylistic standpoint.  Also, since the existing student index page (the F-pattern) will be altered, the Visual Designer must make sure it still looks like it did originally in Project 3.
 
 - The **Technician** will be working from both a front-end and back-end perspective to create a database and table on the class web server to hold the student index information, and then install the PHP scripts to...
 
-  - **Input to the database:** the new data-entry webpage (designed by the IA and styled by the Visual Designer) will take the web form and populate the database table on the server with the entered data
+  - **Input to the database:** the new data-entry webpage (designed by the IA and styled by the Visual Designer) will take the web form and populate the database table on the server with the entered data; the web form will allow the user to all four CRUD functions
   - **Display content from the database:** the existing student index page (the F-pattern) will pull content from the class web server and display it in an F-pattern
 
   Also, the technician is responsible for installing the finished website on the class web server, and the technical quality of the entire website.
