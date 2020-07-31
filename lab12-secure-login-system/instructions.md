@@ -141,11 +141,11 @@ With the code to control the HTML based on the "state" properly installed, the i
 
 1. This, when the user is *not* logged-in:
 
-![figure3](/Users/rkostin/OneDrive/Documents/UR/2020 2. Summer CSC 174/_Last Time/course-documentation-Mac/lab11a-phonebook-with-login/media/figure3.png)
+![figure3](media/figure3.png)
 
 2. This, when the user *is* logged-in
 
-![figure4](/Users/rkostin/OneDrive/Documents/UR/2020 2. Summer CSC 174/_Last Time/course-documentation-Mac/lab11a-phonebook-with-login/media/figure4.png)
+![figure4](media/figure4.png)
 
 ## Install the Application on the Class Web Server
 
