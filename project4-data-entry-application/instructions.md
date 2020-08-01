@@ -91,9 +91,11 @@ FTP Password: [same]
 
 ## Submit the Lab
 
+*NOTE: this is different! Everyone will be graded as individuals for Project 4.  Therefore everyone must make a submission in Blackboard to be graded.*
+
 To get credit for your work:
 
-- One of you must submit a link to your website in Blackboard, in: **Project 4: Data Entry Application**
+- EVERYONE must submit a link to your website in Blackboard, in: **Project 4: Data Entry Application**
 - Along with your link write in the **Write Submission** area (*not* the comments box):
   - **Your city-team name**
   - A list of **everyone's name** in your team (including your own) AND everyone's role
