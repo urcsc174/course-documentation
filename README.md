@@ -6,7 +6,7 @@ Advanced Front-end Web Design and Development
 
 ## Monday, August 3, 2020
 
-- Watch [Lecture Video 16: Content Management Systems (Panopto 37:13)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7659a6ff-0f92-4238-be2f-ac0c00ed9e03) (due: Wednesday, August 5)
+- Watch [Lecture Video 16: Content Management Systems (Panopto 38:32)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7659a6ff-0f92-4238-be2f-ac0c00ed9e03) (due: Wednesday, August 5)
   - Associated slides: [Content Management Systems (PDF)](15a-content-management-systems/content-management-systems.pdf)
 - Do [Lab 13: WordPress](lab13-wordpress/instructions.md) (due: Wednesday, August 5)
   <br>
