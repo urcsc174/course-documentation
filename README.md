@@ -4,6 +4,12 @@ Advanced Front-end Web Design and Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &#8678; here is the full list of slides, demo files, assignments, and related links
 
+## Monday, August 3, 2020
+
+- Watch [Lecture Video 16: Content Management Systems (Panopto 37:13)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7659a6ff-0f92-4238-be2f-ac0c00ed9e03) (due: Wednesday, August 5)
+  - Associated slides: [Content Management Systems (PDF)](15a-content-management-systems/content-management-systems.pdf)
+- Do [Lab 13: WordPress](lab13-wordpress/instructions.md) (due: Wednesday, August 5)
+
 ## Friday, July 31, 2020
 
 - Watch [Lecture Video 15: Persistent State (Panopto 10:07)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=837fb61e-5ce7-406f-8a92-ac0900e25491) (due: Friday, July 31 ...today)
