@@ -20,7 +20,7 @@ After you successfully install your WordPress website on your local host take so
 
 - Look at the "frontend" of the website: go to: [http://localhost/wordpress/](http://localhost/wordpress/)
 - Look at the "backend" of the website: go to: [http://localhost/wordpress/wp-admin/](http://localhost/wordpress/wp-admin/)
-- Open up your file system and browse around; open some of the files and see how it's constructed; noticed that it's not very intuitive - certainly not as straightforward as a static website. As you'll see there's lots of PHP includes and SQL Select statements in PHP loops ...instead of actual content.
+- Open up your file system and browse around; open some of the files and see how it's constructed; noticed that it's not very intuitive - certainly not as straightforward as a static website. As you'll see there are lots of PHP includes and SQL Select statements in PHP loops ...instead of actual content.
 - Also, open phpMyAdmin and look at your Lab 13 database.  That's where all the dynamic content is stored and retrieved for both the front- and back-ends of the website
 
 ## Install a Theme
@@ -47,5 +47,5 @@ Try adding creating new "Pages" and "Posts" with some dummy content and see how 
 For lab credit: **take the following screen shots** of your WordPress website and submit the image files in Blackboard to get credit for Lab 13
 
 - Your Dashboard, with your localhost web address clearly shown
-- Your Themes page (in Appearance | Themes) with your new, installed/active Theme clearly shown
+- Your Themes page (in Appearance \| Themes) with your new, installed/active Theme clearly shown
 - Your website front-end with your localhost web address clearly shown 
